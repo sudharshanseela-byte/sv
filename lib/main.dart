@@ -19,7 +19,7 @@ class OwnAiStudioApp extends StatelessWidget {
           brightness: Brightness.dark,
         ),
         scaffoldBackgroundColor: const Color(0xFF101018),
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           color: const Color(0xFF1C1B27),
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(18),
